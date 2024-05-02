@@ -1,0 +1,20 @@
+
+V
+java:S1220""Move this file to a named package.J$144be41c-c0a6-4885-944c-2f3c179ee1a5
+`
+java:S1854
+"CRemove this useless assignment to local variable "mediaEvaluacion".(Ìö×ü8’îÒÔó1
+G	java:S106"+Replace this use of System.out by a logger.(³ÓÒØ8’îÒÔó1
+]	java:S125"<This block of commented-out lines of code should be removed.(ûˆÈùÿÿÿÿ8’îÒÔó1
+Q
+java:S1481
+"4Remove this unused "mediaEvaluacion" local variable.(Ìö×ü8¡îÒÔó1
+L	java:S106"+Replace this use of System.out by a logger.(£“é¾şÿÿÿÿ8¡îÒÔó1
+L	java:S106"+Replace this use of System.out by a logger.(©“Ïäùÿÿÿÿ8¡îÒÔó1
+L	java:S106"+Replace this use of System.out by a logger.(é ¶øÿÿÿÿ8±îÒÔó1
+L	java:S106"+Replace this use of System.out by a logger.(¹»×Âùÿÿÿÿ8±îÒÔó1
+L	java:S106""+Replace this use of System.out by a logger.(Úûıìûÿÿÿÿ8±îÒÔó1
+F	java:S106#"+Replace this use of System.out by a logger.(ûÍM8±îÒÔó1
+G	java:S106$"+Replace this use of System.out by a logger.(Íô¤â8±îÒÔó1
+F	java:S106%"+Replace this use of System.out by a logger.(Õ „f8±îÒÔó1
+G	java:S106&"+Replace this use of System.out by a logger.(Ò•¸ä8±îÒÔó1
